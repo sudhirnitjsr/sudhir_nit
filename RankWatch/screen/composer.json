@@ -1,0 +1,19 @@
+{
+    "name": "name/rankwatch17",
+    "description": "fresher quetionaire",
+    "type": "public",
+    "license": "free",
+    "authors": [
+        {
+            "name": "me myself",
+            "email": "myself@example.com"
+        }
+    ],
+	"autoload": {
+        "psr-4": {
+            "Code\\": "src/screenshot"
+        }
+    },
+    "minimum-stability": "beta",
+    "require": {}
+}
